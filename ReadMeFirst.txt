@@ -6,3 +6,6 @@ C.  Select the file named: "installer_DoveSonoPro" within the downloaded and unz
     
 D.  Restart Fiji.
 E.  To run DoveSonoPro, go to the newly created tab Plugins > Macros > DoveSonoPro
+
+
+
